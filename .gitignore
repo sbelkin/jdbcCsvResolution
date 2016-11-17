@@ -1,4 +1,5 @@
 
+src/main/resources/local.connection.conf
 target/
 .idea/
 *.iml
