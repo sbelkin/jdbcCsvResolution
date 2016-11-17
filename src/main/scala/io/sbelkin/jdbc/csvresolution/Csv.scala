@@ -4,8 +4,6 @@ package io.sbelkin.jdbc.csvresolution
   * Created by sbelkin on 11/16/2016.
   */
 import java.sql.{Connection, DriverManager}
-
-import com.typesafe.config.Config
 object Csv {
 
   var connection:Connection = null

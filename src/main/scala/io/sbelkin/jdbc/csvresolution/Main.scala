@@ -1,7 +1,8 @@
 package io.sbelkin.jdbc.csvresolution
 
 import java.io.File
-import com.typesafe.config.{ Config, ConfigFactory }
+
+import com.typesafe.config.{Config, ConfigFactory}
 
 
 /**
